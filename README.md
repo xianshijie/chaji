@@ -8,3 +8,4 @@ Tea is a thing, produced from the lofty mountains, absorbs the aura of the heave
 Chaji contains all kinds of Chinese tea, the origin is traceable, the quality is guaranteed
 
 If you have any questions about this app, please contact: lanpo91357139@yeah.net
+![image](https://github.com/xianshijie/chaji/blob/master/images/画板%201.png)![image](https://github.com/xianshijie/chaji/blob/master/images/画板%202.png)![image](https://github.com/xianshijie/chaji/blob/master/images/画板%203.png)
